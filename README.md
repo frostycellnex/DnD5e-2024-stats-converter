@@ -15,7 +15,6 @@ Initialize python environment
 python -m venv venv
 source venv/bin/activate
 pip install anthropic requests beautifulsoup4 reportlab
-export ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
 ## 2024 Stats Converter
